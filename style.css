@@ -1,0 +1,148 @@
+@import url('https://fonts.cdnfonts.com/css/circular-std');
+
+body{
+    margin: 0px;
+    font-family: 'Circular Std', sans-serif;
+    background-color: pink;
+    
+}
+
+#logo{
+    width: 150px;
+}
+
+#container{
+    background-size: cover;
+    height: 800px;
+    padding: 40px;
+    background-image:linear-gradient(103.24deg, rgba(28, 31, 39, 0.9) 23.83%, rgba(31, 33, 39, 0.3) 96.1%),url(https://images5.alphacoders.com/915/915127.png);
+}
+aside{
+   margin-left: 1000px;
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   
+   margin-bottom: 20px;
+ }
+#header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav{
+    padding: 4px 15px;
+    text-align: start;
+    font-size: 16px;
+    color: #FF1493;
+    margin-right: 10px;
+}
+
+#div{
+    font-size: 16px;
+    
+    
+    margin-right: 10px;
+}
+h1{ 
+    font-size: 50px ;
+    color: white;
+    text-align: start;
+    
+}
+h2{
+    font-size: 40px;
+    color: white;
+    text-align: start;
+}
+
+#main{
+    color: #FF1493;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#title-main{
+    font-size: 62px;
+    font-weight: 900;
+}
+#input{
+    height: 50px;
+    width: 350px;
+    background-color: rgba(231, 109, 184, 0.488);
+    border: 1px solid rgb(179, 16, 143);
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0px 10px;
+}
+
+#btn-start{
+    margin-left: 10px;
+    font-size: 10px;
+    text-align: center;
+    padding: 2px 20px;
+    font-weight: 700;
+    color: white;
+    background-color: #f074c6;
+    border: none;
+    border-radius: 5px;
+}
+footer{
+        margin-left: 50px;
+        font-size: 20px;
+        padding: 2px 20px;
+        font-weight: 700;
+        color: rgb(245, 59, 220);
+        border: none;
+        border-radius: 5px;
+    
+}
+
+
+#box-container{
+    width: 100%;
+    height: 1300px;
+    margin: 0 auto;
+    margin-top: 100px;    
+    background: linear-gradient(333.52deg, #f583d3 24.58%, #f8a1d7 84.55%, #ee4dd3 104.96%);;
+    border-radius: 5px;
+}
+
+.imagens {
+    width: 300px;
+    height: 350px;
+}
+
+.imagen {
+    width: 300px;
+    height: 350px;
+}
+
+.box-info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 40px;
+    justify-content: center;
+}
+
+.box-title{
+    color: #FF1493;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.subtitle-main{
+    font-size: 20px;
+}
+
+.shadow{
+    width: 85%;
+    height: 7px;
+    background-color: rgba(0, 0, 0, 0.467);
+    margin: 0 auto;
+}
+
+
